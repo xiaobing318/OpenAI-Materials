@@ -1,0 +1,8 @@
+# OS generated files
+.DS_Store
+
+# Editor / IDE
+.vscode/
+
+# Log files
+*.log
